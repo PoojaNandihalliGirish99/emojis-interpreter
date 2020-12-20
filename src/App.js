@@ -47,7 +47,7 @@ export default function App() {
           padding: "0.5rem",
           margin: "0.5rem",
           width: "40%",
-          backgroundColor: "blanchedalmond"
+          backgroundColor: "white"
         }}
       ></input>
       <br />
