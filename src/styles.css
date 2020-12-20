@@ -1,4 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100&display=swap");
+
 .App {
-  font-family: sans-serif;
+  font-family: "JetBrains Mono", monospace;
   text-align: center;
+  position: inside;
+}
+body {
+  background-color: darkkhaki;
+  overflow: hidden;
+}
+#text {
+  background-color: blanchedalmond;
+  padding: "0rem 3rem";
+  width: "30%";
+  margintop: "0.5rem";
+  marginleft: "auto";
+  marginright: "auto";
+  /* liststyle: "inside"; */
+  position: "center";
 }
